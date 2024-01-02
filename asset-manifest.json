@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/justin-ngatho/travel-planner.git/static/css/main.964fdded.css",
+    "main.js": "/justin-ngatho/travel-planner.git/static/js/main.7d6a861e.js",
+    "static/js/787.43f8219c.chunk.js": "/justin-ngatho/travel-planner.git/static/js/787.43f8219c.chunk.js",
+    "index.html": "/justin-ngatho/travel-planner.git/index.html",
+    "main.964fdded.css.map": "/justin-ngatho/travel-planner.git/static/css/main.964fdded.css.map",
+    "main.7d6a861e.js.map": "/justin-ngatho/travel-planner.git/static/js/main.7d6a861e.js.map",
+    "787.43f8219c.chunk.js.map": "/justin-ngatho/travel-planner.git/static/js/787.43f8219c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.7d6a861e.js"
+  ]
+}
